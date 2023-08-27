@@ -1,4 +1,4 @@
-name: Veracode Build Java Maven Application
+name: Veracode Build .NET Application
 
 on:
   workflow_call:
